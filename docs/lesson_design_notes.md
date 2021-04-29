@@ -93,7 +93,7 @@ In order to work for different learner profiles, things can be taught:
 
 ## Learning Objectives
 
-FIXME fill in the block below with learning objectives for your whole lesson, then move the whole block to `index.md`
+The following block has been used in `index.md`.
 
 > ## Learning Objectives
 > After following this lesson, learners will be able to:
@@ -109,12 +109,29 @@ FIXME fill in the block below with learning objectives for your whole lesson, th
 
 ### Notes
 
-FIXME add any relevant information about how and why you defined these objectives here. Information like this can be helpful for future collaborators/contributors/users to understand the scope of your lesson.
+Breakdown learning objectives from learner's perspective:
+- Identify the nature of their code
+- The need for making software citable always comes with the publication, release, or distribution of the code. So identify how to make their code available and public based on the nature of their code
+- Identify the citation options based on the mode of distribution
+
+Break down the lesson into episodes:
+Starting point: When one is seeking to make their code visible and available online, they should start to consider the citability of their software.
+The first step is to understand what kind of the code one is working with. Here I consider two common scenarios: research compendium/workflow for publication purpose; a specialized piece of software.
+The second step is to identify the distribution channel of one's code. Here I (again) consider two common scenarios: share code via GitHub; share code via language-specific package manager; share code via digital repositories.
+The third step is to understand citation options based on the distribution channel, including human-readable and machine-readable options. Sometimes consider language-specific cases. Also consider how to evaluate the operations & make updates.
+That seems to suggest 3-4 episodes for now.
+
+Also consider some conceptual stuff first:
+- Why visibility of software is important: consider one's intention to share/publish/distribute (or even hand-off) software. (that intersects with what kind of code they are trying to share, and how, as well.) 
+- Visibility works for direct reach-out to end-users, and mediated by search engine, databases, etc.
+- Have a human-readable citation suggestion/request at every point of connection to end-users
+- Have a machine-readable citaion/software metadata file also at the reach of end-users (so they can directly use in their "executable papers" or when they are repurposing the code), and exposed to online databases that register software
+- 
 
 
 ## Concept Maps
-
-FIXME Add concept map(s) for your lesson here. You can  embed a photo or other image file, or use the [GraphViz](https://graphviz.org/) syntax demonstrated below.
+:::info 
+Concept maps can be an embedded photo or other image file, or use the [GraphViz](https://graphviz.org/) syntax demonstrated below.
 
 ```graphviz
 digraph hierarchy {
@@ -134,6 +151,7 @@ digraph hierarchy {
                 
 }
 ```
+:::
 
 ### Lesson Concept Map
 
@@ -153,11 +171,26 @@ Did you identify any other data sets and/or example tasks that could also be use
 
 ## Additional Design Notes
 
-FIXME add notes to this section that do not fit elsewhere
-in the page. Topics for this section might include
+### Following principles of backward design
+- Teach practical and concrete skills
+- Design challenges/exercises to help learners step up, iterate, and adapt in different scenarios in skill-building
+- Have diagnostic moments for timely feedback
+- Manage learners' expectations and providing motivations by communicating learning objectives
 
-- what has been tried that did not work
-- 
+### Lesson outline
+- Prerequisites
+- Setup
+- Episodes
+    - Challenges
+    - Code blocks
+    - Narrative text
+    - Learning objectives
+    - Key points
+    - Framing/Motivating questions
+    - Instructors' guide
+
+## References
+
 
 :::info
 General questions or feedback? Contact [team@carpentries.org](mailto:team@carpentries.org).
