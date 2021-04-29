@@ -11,6 +11,7 @@ The goal of this lesson is to help people who are ready to share their code to s
 
 > ## Target Audience
 > Make Code Citable is intended for researchers who want to share their code or have an idea of build some code product that they eventually want to share with a larger audience. The lesson assumes that the audience has the familiarity of working with some code in research activities and feels comfortable about looking ahead to find out what needs to be done for making a piece of code meet its audience. 
+{: .callouts}
 
 > ## Prerequisites
 > Though anyone who would like to explore the idea of sharing code could take this lesson to get a conceptual uptake, technically, the current version of the lesson has been designed with some learning activities that require some working knowledge with GitHub. Proficiency with Git is not required, but we will work with the GitHub Web interface and won't teach how to use GitHub from scratch. Learners do not need to understand the collaborative Git workflow (e.g. fork a repository or merge a pull request) but will feel comfortable if they understand the basic structure of a repository on GitHub.
