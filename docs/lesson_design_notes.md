@@ -189,6 +189,13 @@ Did you identify any other data sets and/or example tasks that could also be use
     - Framing/Motivating questions
     - Instructors' guide
 
+First define the starting point: Now we are facing the task of sharing code. 
+  - Think what kind of code you are working with -> introduce some basic concepts
+  - Perhaps put learners into different personae and corresponding path
+Then introduce the sharing options for each type of code to share.
+  - Introduce visibility blocking points
+
+
 ### Checklist for publishing the lesson
 * [X] Decide on a title for your new lesson!
   Once you've chosen a new title, you can set the value for `lesson_title`

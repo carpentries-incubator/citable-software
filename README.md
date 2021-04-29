@@ -1,43 +1,10 @@
-# Make Software Citable
+# Make Code Citable
 
 [![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
 
-**Thanks for contributing to The Carpentries Incubator!**
-This repository provides a blank starting point for lessons to be developed here.
+This repository is for a lesson **Make Code Citable** currently under development in the Carpentries Incubator. The lesson is targeted at people who want to share their code or have an idea of building some code product that they eventually want to share. The lesson at the moment is in pre-alpha stage. However, anyone is welcome to read the currently available lesson content and add suggestions or comments via [GitHub Issues](https://github.com/carpentries-incubator/citable-software/issues/new).
 
-A member of the [Carpentries Curriculum Team](https://carpentries.org/team/)
-will work with you to get your lesson listed on the
-[Community Developed Lessons page][community-lessons]
-and make sure you have everything you need to begin developing your new lesson.
-
-## What to do next
-
-Before you begin developing your new lesson,
-here are a few things we recommend you do:
-
-* [ ] Decide on a title for your new lesson!
-  Once you've chosen a new title, you can set the value for `lesson_title`
-  in [`_config.yml`](_config.yml)
-* [ ] Add the URL to your built lesson pages to the repository description\*
-* [ ] Fill in the fields marked `FIXME` in:
-  * this README
-  * [`_config.yml`](_config.yml)
-* [ ] If you're going to be developing lesson material for the first time
-  according to our design principles,
-  consider reading the [Carpentries Curriculum Development Handbook][cdh]
-* [ ] Consult the [Lesson Example][lesson-example] website to find out more about
-  working with the lesson template
-* [ ] If you are planning to write your lesson in RMarkdown,
-  [create a `main` branch and set this as the default branch in your repository settings][change-default-branch]
-* [ ] Update this README with relevant information about your lesson
-  and delete this section
-
-
-\* To set the URL on GitHub, click the gear wheel button next to **About**
-on the right of the repository landing page.
-The lesson URL structure is **https://carpentries-incubator.github.io/<repository-slug\>**:
-a repository at https://github.com/carpentries-incubator/new-lesson/ will have pages at
-the lesson URL https://carpentries-incubator.github.io/new-lesson/.
+For an overview of this course, please visit the lesson frontpage [Make Code Citable](https://carpentries-incubator.github.io/citable-software/).
 
 
 ## Contributing
