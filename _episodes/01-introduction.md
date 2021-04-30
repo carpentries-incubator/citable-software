@@ -10,7 +10,7 @@ objectives:
 - "Distinguish two forms of shared code for research purpose: research compendium and software package."
 keypoints:
 - "Research compendium is the bundle of code, data, and necessary documentation that you shared for accompanying your published research, so that others can reproduce it and extend it."
-- "Software package is a formal format of shared code that can be distributed to others for reuse.
+- "Software package is a formal format of shared code that can be distributed to others for reuse."
 ---
 
 If you frequently work with code in your research, at some point you may reach a point when it becomes appropriate to share your code: Be it a script for data analysis, code you have written for collecting and processing data, or some convience functions that you have invented for smoothing your own computing workflow. If you are writing a research paper, then there may be an imperative (e.g., from a journal) for you to share your replication package. Or, others could benefit from your own code as they may want to do similar things, such as retrieving data from a web API and transforming it into rectangular data tables. It is also possible that you are working on some advanced methods or techniques, for data analysis or modelling, and you want to share it with your research community.
