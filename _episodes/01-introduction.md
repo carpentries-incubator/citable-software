@@ -9,7 +9,7 @@ objectives:
 - "Understand to make code citable requires extra work."
 - "Distinguish two forms of shared code for research purpose: research compendium and software package."
 keypoints:
-- "Research compendium is the bundle of code, data, and necessary documentation that you shared for accompanying your published research, so that others can reproduce it and extend it."
+- "Research compendium is the bundle of code, data, and necessary documentation that is shared for accompanying published research, so that others can reproduce it and extend it."
 - "Software package is a formal format of shared code that can be distributed to others for reuse."
 ---
 
